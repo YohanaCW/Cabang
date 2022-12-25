@@ -12,3 +12,4 @@ Yohana Euphrasia Coo Wea
 jenis kelamin
 Tempat tanggal lahir
 Alamat
+Email
