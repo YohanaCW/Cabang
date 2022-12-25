@@ -9,3 +9,6 @@ kab
 khcagc
 js
 Yohana Euphrasia Coo Wea
+jenis kelamin
+Tempat tanggal lahir
+Alamat
